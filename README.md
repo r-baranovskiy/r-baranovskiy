@@ -4,7 +4,7 @@
 
 
 ### I'v been doing mobile development for more than one year. 
-### I try to lern something new about iOS development every day because I have a great desire to develop in development for iOS.
+### I try to lern something new about iOS development every day because I have a great desire to develop in iOS development.
 ### Currently I'm participating in Swiftmarathon where me and the team are developing our application.
 
 ### My old projects and materials for study you can see [here](https://github.com/r-baranovskiy/Studying)
