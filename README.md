@@ -1,4 +1,4 @@
--  <h1 align="center">Hi there, I'm Ruslan and I'm iOS developer</h1>
+<h1 align="center">Hi there, I'm Ruslan and I'm iOS developer</h1>
 
 - I'v been doing mobile development for more than one year.
 - My stack consists of:
