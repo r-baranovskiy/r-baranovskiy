@@ -4,6 +4,10 @@
 
 
 - I'v been doing mobile development for more than one year.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=r-baranovskiy&theme=icegray&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 - My stack consists of:
 
 UIKit;
@@ -17,9 +21,5 @@ CoreLocation;
 JSON;
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=r-baranovskiy&theme=icegray&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)          ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
