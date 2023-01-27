@@ -16,7 +16,7 @@
 * UIKit (NSLayoutConstraint, Interface builder, XIB)
 * SwiftUI (Based)
 * MVC, MVVM
-* Cocoapods, SPM, Firebase, CoreData, CoreLocation, Keychain
+* Cocoapods, SPM, Firebase, CoreData, CoreLocation, Keychain, AVFoudation
 * JSON, GCD, NSOperation, URLSession, NSCache, UserDefaults, Networking
 * GitHub, Trello, Jira
 
