@@ -13,11 +13,14 @@
 
 ## My stack consists of:
 
-* UIKit (NSLayoutConstraint, Interface builder, XIB)
+* UIKit (NSLayoutConstraint, Interface builder, XIB, SnapKit)
 * SwiftUI (Based)
-* MVC, MVVM
-* Cocoapods, SPM, Firebase, CoreData, CoreLocation, Keychain, AVFoudation
-* JSON, GCD, NSOperation, URLSession, NSCache, UserDefaults, Networking
+* MVC, MVVM, MVP, Viper
+* Cocoapods, SPM, Carthage
+* CoreData, Realm, UserDefaults
+* Firebase, Keychain, AVFoudation
+* GoogleMaps, MapKit, CoreLocation
+* JSON, GCD, NSOperation, URLSession, NSCache
 * GitHub, Trello, Jira
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
