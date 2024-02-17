@@ -1,4 +1,4 @@
-### iOS Software engineer Ruslan
+### iOS Software engineer
 
 ## Stack:
 
